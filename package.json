@@ -1,4 +1,5 @@
 {
+  "engines" : { "node" : ">=10.15.0" },
   "name": "api-test-node",
   "version": "1.0.0",
   "description": "",
